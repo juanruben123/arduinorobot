@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "robot", "robot.vcxproj", "{2AEFF264-858F-4114-BB40-27EB90456162}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ultrasonidos", "..\ultrasonidos\ultrasonidos.vcxproj", "{ECB6C323-36C7-468D-8D19-34BD3803E1C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AEFF264-858F-4114-BB40-27EB90456162}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2AEFF264-858F-4114-BB40-27EB90456162}.Debug|Win32.Build.0 = Debug|Win32
+		{2AEFF264-858F-4114-BB40-27EB90456162}.Release|Win32.ActiveCfg = Release|Win32
+		{2AEFF264-858F-4114-BB40-27EB90456162}.Release|Win32.Build.0 = Release|Win32
+		{ECB6C323-36C7-468D-8D19-34BD3803E1C2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ECB6C323-36C7-468D-8D19-34BD3803E1C2}.Debug|Win32.Build.0 = Debug|Win32
+		{ECB6C323-36C7-468D-8D19-34BD3803E1C2}.Release|Win32.ActiveCfg = Release|Win32
+		{ECB6C323-36C7-468D-8D19-34BD3803E1C2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

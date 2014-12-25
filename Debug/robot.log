@@ -1,0 +1,14 @@
+﻿  PID_v1.cpp
+c1xx : warning C4117: macro name '__cplusplus' is reserved, '#define' ignored
+c:\users\juanruben\documents\mega\arduino\arduino_proyects-2014-08-30\arduino proyects\robot\visual micro\.robot.vsarduino.h(13): warning C4005: '__AVR_ATmega2560__' : macro redefinition
+          command-line arguments :  see previous definition of '__AVR_ATmega2560__'
+c:\users\juanruben\documents\mega\arduino\arduino_proyects-2014-08-30\arduino proyects\robot\visual micro\.robot.vsarduino.h(15): warning C4005: 'ARDUINO_MAIN' : macro redefinition
+          command-line arguments :  see previous definition of 'ARDUINO_MAIN'
+c:\users\juanruben\documents\mega\arduino\arduino_proyects-2014-08-30\arduino proyects\robot\visual micro\.robot.vsarduino.h(16): warning C4005: '__AVR__' : macro redefinition
+          command-line arguments :  see previous definition of '__AVR__'
+c:\users\juanruben\documents\mega\arduino\arduino_proyects-2014-08-30\arduino proyects\robot\visual micro\.robot.vsarduino.h(17): warning C4005: '__avr__' : macro redefinition
+          command-line arguments :  see previous definition of '__avr__'
+c:\users\juanruben\documents\mega\arduino\arduino_proyects-2014-08-30\arduino proyects\robot\visual micro\.robot.vsarduino.h(19): warning C4117: macro name '__cplusplus' is reserved, '#define' ignored
+c:\users\juanruben\documents\mega\arduino\arduino_proyects-2014-08-30\arduino proyects\robot\visual micro\.robot.vsarduino.h(26): warning C4005: '__asm__' : macro redefinition
+          c:\users\juanruben\documents\mega\arduino\arduino_proyects-2014-08-30\arduino proyects\robot\visual micro\.robot.vsarduino.h(21) : see previous definition of '__asm__'
+c:\program files (x86)\arduino\hardware\tools\avr\avr\include\stdlib.h(47): fatal error C1083: Cannot open include file: 'stddef.h': No such file or directory
